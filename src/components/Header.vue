@@ -28,7 +28,8 @@ header .git {
 header .linkedin {
   position: absolute;
   margin-left: 101rem;
-  margin-top: -3.5rem;
+  margin-top: -3.5rem; 
+  
 }
 
 header .insta {
