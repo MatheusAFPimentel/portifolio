@@ -105,7 +105,8 @@ body {
   }
   p {
     font-size: 0.8rem;
-    width: 50vh;
+    width: 42vh;
+    margin-left: -2vh;
   }
   h1 {
     font-size: 2rem;
@@ -122,6 +123,11 @@ body {
   margin-top: 40vh;
   margin-left: -10vh;
 }
+
+  h2 {
+    margin-left: -3vh;
+  }
+
 
 }
 </style>

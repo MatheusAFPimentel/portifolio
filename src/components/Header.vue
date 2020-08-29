@@ -59,7 +59,7 @@ header .twitter {
 
   header .linkedin {
     position: absolute;
-    margin-left: 1.7em;
+    margin-left: 17rem;
     margin-top: 0.5rem;
   }
 }
